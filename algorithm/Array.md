@@ -43,3 +43,18 @@ struct People P;
 
 ```
 
+```c
+#include<stdio.h>
+
+typedef struct studentTag{
+char name[10];
+int age;
+double;
+} Student;
+
+int main(void){
+Student a = {"aaa",20,3.5};
+Student b = {"bbb",25,4.0};
+Student c = {"ccc",28,4.5};
+```
+
