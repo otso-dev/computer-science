@@ -57,4 +57,5 @@ Student a = {"aaa",20,3.5};
 Student b = {"bbb",25,4.0};
 Student c = {"ccc",28,4.5};
 ```
+## 구조체 활용
 
